@@ -1,0 +1,1 @@
+INSERT INTO Tasks VALUES (1, "Test 1", "Test Description 1", now())
